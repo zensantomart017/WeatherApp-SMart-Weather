@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 106.8451,
+    "lat": -6.2146
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 25.61,
+    "feels_like": 26.24,
+    "temp_min": 24.94,
+    "temp_max": 25.61,
+    "pressure": 1011,
+    "humidity": 77,
+    "sea_level": 1011,
+    "grnd_level": 1007
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 0.45,
+    "deg": 178,
+    "gust": 0.89
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1750357121,
+  "sys": {
+    "type": 2,
+    "id": 2103438,
+    "country": "ID",
+    "sunrise": 1750374078,
+    "sunset": 1750416417
+  },
+  "timezone": 25200,
+  "id": 1642911,
+  "name": "Jakarta",
+  "cod": 200
+}
